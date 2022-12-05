@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5mIrr/JTaizdhjUfTRGQPeDShkOY68krU/rDc2LUhz0BQt/30i8iuUoZOWhXUxZFM3vFFbBcF4d601WCwnxtRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\avidakovic\\Desktop\\ASP_NET\\OAuth_IdentityServer\\quickstart\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avidakovic\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\avidakovic\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
