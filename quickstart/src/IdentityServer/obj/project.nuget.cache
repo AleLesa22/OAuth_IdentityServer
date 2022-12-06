@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PTcPj5Mrb1dRzX0HvH13sQf1LwOHalCoVrVyQF+nmHG6f+aRDa+BVy+jhJ9Pa4VMTNzr8dxCUnM0AwVST+IN5Q==",
+  "dgSpecHash": "Z7JsRWGK+84EkZspUTpS4yEEscOp8z4sWy9PDKKzq2SJUO3V9YEIu6vnL7ao3OXVNy1jReB2xd7EZsTL32IwSw==",
   "success": true,
   "projectFilePath": "C:\\Users\\avidakovic\\Desktop\\ASP_NET\\OAuth_IdentityServer\\quickstart\\src\\IdentityServer\\IdentityServer.csproj",
   "expectedPackageFiles": [

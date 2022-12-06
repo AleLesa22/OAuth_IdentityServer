@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NcGtOgs3bNg7GpEouoqVce+QG2rv1dxcoZzVJn+HqKIFwhkiWaK8+9Up+o5THvQ5LpS7HW516eFpHk3bUn9EUA==",
+  "dgSpecHash": "ywv7cNFM7L/9Av2lJLjoGnYFnaQ4Cp8IDlwQ6wl/JlQR/T/Tiqf5TqvFPK5GUuLx5d2k3KQLA2GWrGe159x7DQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\avidakovic\\Desktop\\ASP_NET\\OAuth_IdentityServer\\quickstart\\src\\Api\\Api.csproj",
   "expectedPackageFiles": [
